@@ -37,6 +37,8 @@ Goodcabs’ mission is to support local drivers while ensuring excellent passeng
 	Analyze cities and months with the strongest and weakest repeat passenger rates to uncover trends and opportunities for improvement.
 
 
+## Key Findings:
+
 | Category                       | Insights                                                                                  | Recommendations                                                                 |
 |--------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Top & Bottom Performing Cities | Jaipur, Lucknow, and Surat are top-performing cities; Vadodara, Coimbatore, and Mysore are low-performing. | Focus on improving services in low-performing cities through driver incentives and targeted marketing. |
@@ -50,6 +52,15 @@ Goodcabs’ mission is to support local drivers while ensuring excellent passeng
 | Passenger Satisfaction         | Consistent low satisfaction in Vadodara and Surat across passenger and driver ratings. | Focus on training and incentives for service improvements in cities with persistent low ratings. |
 | Emerging Trends                | Growing demand for eco-friendly options and electric vehicles in tier-2 cities. | Pilot green initiatives like electric vehicle adoption in Surat and Lucknow. |
 
+## Strategic Recommendations 
+
+| **Objective**               | **Action Plan**                                                                 |
+|------------------------------|---------------------------------------------------------------------------------|
+| **Resource Optimization**    | - Focus on weekends in tourism cities like **Jaipur** and **Mysore**.<br>- Prioritize weekdays in business cities like **Surat**. |
+| **Enhancing Passenger Satisfaction** | - Address underperformance in **Vadodara** and **Mysore**.<br>- Train drivers to improve service quality.<br>- Launch reward programs to enhance satisfaction. |
+| **Building Passenger Loyalty** | - Boost repeat passenger rates in tourism-heavy cities.<br>- Develop loyalty programs.<br>- Partner with hotels, malls, and event organizers to encourage ridership. |
+| **Pricing & Revenue Strategy** | - Adjust pricing in **Mysore** to balance demand and profitability.<br>- Optimize fares in high-demand business hubs. |
+| **Sustainability & Innovation** | - Explore **electric vehicle** adoption.<br>- Position Goodcabs as a sustainable, eco-conscious brand. |
 
 ## Dashboard Preview  
 
