@@ -51,11 +51,9 @@ Goodcabs’ mission is to support local drivers while ensuring excellent passeng
 | Emerging Trends                | Growing demand for eco-friendly options and electric vehicles in tier-2 cities. | Pilot green initiatives like electric vehicle adoption in Surat and Lucknow. |
 
 
-
 ## Dashboard Preview  
 
 The Power BI dashboard provides interactive insights into Goodcabs’ performance, covering metrics such as growth, passenger satisfaction, and demand trends.  
 
-![Power BI Dashboard](C:\Users\Admin\Desktop/Capture.PNG)
-
+![Power BI Dashboard](images/Capture.PNG)
 
