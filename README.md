@@ -56,6 +56,6 @@ Goodcabs’ mission is to support local drivers while ensuring excellent passeng
 
 The Power BI dashboard provides interactive insights into Goodcabs’ performance, covering metrics such as growth, passenger satisfaction, and demand trends.  
 
-![Power BI Dashboard](images/Capture.PNG)
+![Power BI Dashboard](C:\Users\Admin\Desktop/Capture.PNG)
 
 
